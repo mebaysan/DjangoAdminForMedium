@@ -2,7 +2,6 @@ from django.contrib import admin
 from blog.models import Blog
 # Register your models here.
 
-# https://docs.djangoproject.com/en/3.2/ref/contrib/admin/
 class BlogAdmin(admin.ModelAdmin):
     list_display = ['title', 'added_date', 'updated_date', 'is_published']
     list_per_page = 25
