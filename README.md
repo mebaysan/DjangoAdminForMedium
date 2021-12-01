@@ -11,5 +11,5 @@ Kind regards.
 # Chapters
 - [From Zero to Hero Django Admin: Set-Up (Part1)](https://medium.com/nerd-for-tech/from-zero-to-hero-django-admin-set-up-part1-253cd3a5a723)
   - Set-Up, Model Registration, Meta Keyword, App Section, Admin Site Titles
-- From Zero to Hero Django Admin: ModelAdmin Class (Part2)
+- [From Zero to Hero Django Admin: ModelAdmin Class (Part2)](https://medium.com/nerd-for-tech/from-zero-to-hero-django-admin-modeladmin-class-part2-2c8665d6cd5)
   - Faker package, ModelAdmin Class, Basic Fields of ModelAdmin Class
