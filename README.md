@@ -13,5 +13,7 @@ Kind regards.
   - Set-Up, Model Registration, Meta Keyword, App Section, Admin Site Titles
 - [From Zero to Hero Django Admin: ModelAdmin Class (Part2)](https://mebaysan.medium.com/from-zero-to-hero-django-admin-modeladmin-class-part2-2c8665d6cd5)
   - Faker package, ModelAdmin Class, Basic Fields of ModelAdmin Class
-- From Zero to Hero Django Admin: Advanced-Level ModelAdmin Class-1 (Part3)
+- [From Zero to Hero Django Admin: Advanced-Level ModelAdmin Class-1 (Part3)](https://medium.com/nerd-for-tech/from-zero-to-hero-django-admin-advanced-level-modeladmin-class-1-part3-b4a9c4a21cc2)
   - Date Hierarchy, Admin Actions, Fields, Field Sets
+- From Zero to Hero Django Admin: Advanced-Level ModelAdmin Class-2 (Part4)
+  - Using Model Properties in Admin App, Adding Rich Text Editor
