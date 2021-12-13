@@ -15,5 +15,7 @@ Kind regards.
   - Faker package, ModelAdmin Class, Basic Fields of ModelAdmin Class
 - [From Zero to Hero Django Admin: Advanced-Level ModelAdmin Class-1 (Part3)](https://medium.com/nerd-for-tech/from-zero-to-hero-django-admin-advanced-level-modeladmin-class-1-part3-b4a9c4a21cc2)
   - Date Hierarchy, Admin Actions, Fields, Field Sets
-- From Zero to Hero Django Admin: Advanced-Level ModelAdmin Class-2 (Part4)
+- [From Zero to Hero Django Admin: Advanced-Level ModelAdmin Class-2 (Part4)](https://medium.com/nerd-for-tech/from-zero-to-hero-django-admin-advanced-level-modeladmin-class-2-part4-75608978bd76)
   - Using Model Properties in Admin App, Adding Rich Text Editor
+- From Zero to Hero Django Admin: Model Relations (Part5)
+  - List Editable, Tabular & Stacked Inlines, Collapsing Sections, Horizontal & Vertical Filters
