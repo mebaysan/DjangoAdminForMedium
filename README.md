@@ -17,5 +17,5 @@ Kind regards.
   - Date Hierarchy, Admin Actions, Fields, Field Sets
 - [From Zero to Hero Django Admin: Advanced-Level ModelAdmin Class-2 (Part4)](https://medium.com/nerd-for-tech/from-zero-to-hero-django-admin-advanced-level-modeladmin-class-2-part4-75608978bd76)
   - Using Model Properties in Admin App, Adding Rich Text Editor
-- From Zero to Hero Django Admin: Model Relations (Part5)
+- [From Zero to Hero Django Admin: Model Relations (Part5)](https://medium.com/nerd-for-tech/from-zero-to-hero-django-admin-model-relations-part5-c4c60c6d57a7)
   - List Editable, Tabular & Stacked Inlines, Collapsing Sections, Horizontal & Vertical Filters
